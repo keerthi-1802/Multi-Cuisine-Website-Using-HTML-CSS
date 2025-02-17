@@ -1,1 +1,1 @@
-The Template is owned by Colorlib. I just Recreated it With my code.
+This template is owned by Colorlib. I just recreated it with my code.
